@@ -1,0 +1,10 @@
+data/
+*.pth
+*.zip
+*.tar.gz
+data/*.zip
+model/
+log/
+log_dir/
+pretrained_ckpt/
+*.pyc
